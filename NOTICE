@@ -18,6 +18,7 @@ This project includes:
   Apache Commons Codec under Apache License, Version 2.0
   Apache Commons Lang under Apache License, Version 2.0
   Apache FreeMarker under Apache License, Version 2.0
+  Apache Log4j under The Apache Software License, Version 2.0
   Commons Logging under The Apache Software License, Version 2.0
   Core Hibernate O/RM functionality under GNU Lesser General Public License
   Data Mapper for Jackson under The Apache Software License, Version 2.0
@@ -81,6 +82,7 @@ This project includes:
   ScribeUP Extensions under Apache License, Version 2.0
   SLF4J API Module under MIT License
   SLF4J JDK14 Binding under MIT License
+  SLF4J LOG4J-12 Binding under MIT License
   XML Commons External Components XML APIs under The Apache Software License, Version 2.0
   Xml Compatibility extensions for Jackson under The Apache Software License, Version 2.0 or GNU Lesser General Public License (LGPL), Version 2.1
 
